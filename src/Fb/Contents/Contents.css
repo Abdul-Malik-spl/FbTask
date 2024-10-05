@@ -1,0 +1,37 @@
+#Contents{margin-top:30px;}
+.feedProfileImg{height:50px;width:50px;border-radius:50%}
+.feedpichead{display:flex;align-items:center;justify-content:space-around}
+.feedboxstyle{background:white;padding:10px;
+    box-shadow:1px 1px 2px;border-radius:10px}
+.feedtxtbody{padding-top:10px;}
+.feedtxtbodytemplate{display:flex;justify-content:center;align-items:center;height:25vh;margin-top:20px}
+.feedboxstyle{margin:5px 0}
+.bigscreen-right{border-left:1px solid black;}
+.msgforlap{margin-left:5px}
+.paraformsg{text-align:center;font-family:Roboto,sans-serif}
+.feedfoot{margin-top:10px;border-top:1px solid gray}
+.cmnsylff{display:flex;justify-content:center;align-items:center;margin-top:10px;}
+.likedclr{color:blue;}
+.dot-close-icon{display:flex;align-items:center;justify-content:center;justify-content:flex-end}
+.dot-con{justify-content:space-around}
+.commenton{position:absolute;top:0;width:100%;background:white;border:1px solid gray}
+.feedfoot{}
+.commentHead{justify-content:space-between}
+.commonton-div{position:relative;margin-top:10px}
+.cmtbox-btn-style {margin:5px}
+.cmtbox-btn-style input{border:none;outline:none;border-bottom:1px solid black;width:100%}
+.cmtbtn{display:flex;justify-content:space-around}
+.cmtbox-btn-style button{width:50%;height:25px;background:#1877F2;color:white;font-family:Roboto,sans-serif;font-weight:bolder;border-radius:10px;border:1px solid gray}
+.commentinnerstyle{margin:15px;background: gray;border-radius:10px}
+.comment-img{width:25px;height:25px;border-radius:50%}
+.commentName{}
+@media(max-width:576px){
+    .bigscreen-right{display:none}
+}
+@media(min-width:577px){
+    .paraformsg{display:none}
+    .feedboxstyle{margin-right:10px}
+}
+@media(max-width:350px){
+    .feedpichead {}
+}

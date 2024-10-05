@@ -1,0 +1,45 @@
+{
+    "userDetail": [
+        {   "email":"abdul@gmail.com",
+        "password":"12345",
+            "Name":"Abdul Malik",
+            "pic":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQskS0oc0zyEmortSiHkB64P3XVAN_3qoTtHQ&s",
+            "postpic":"",
+            "posttext":"",
+            "likes":0,
+            "comments":"",
+            "shares":"",
+            "posts":[],
+            "stories":[],
+            "showdetail":false
+        },
+        {     "email":"raj@gmail.com",
+        "password":"54321",
+            "Name":"raj",
+            "pic":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRXyX3tm2mtTWXSQsz-mD9MqXYjlCao76mZA&s",
+            "postpic":"",
+            "posttext":"",
+            "likes":0,
+            "comments":"",
+            "shares":"",
+            "posts":[],
+            "stories":[],
+            "showdetail":false
+        },
+        {   "email":"kavi@gmail.com",
+        "password":"01010",
+            "Name":"Kavi",
+            "pic":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvWU92WPvc6p4RkyRESmEX0Ovz4sElTOy21Q&s",
+            "postpic":"",
+            "posttext":"",
+            "likes":0,
+            "comments":"",
+            "shares":"",
+            "posts":[],
+            "stories":[],
+            "showdetail":false
+            
+        }
+    ],
+    "isLogin":false
+}
