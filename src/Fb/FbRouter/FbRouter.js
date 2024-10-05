@@ -1,5 +1,5 @@
 import React from 'react'
-import {BrowserRouter,Routes,Route} from 'react-router-dom'
+import {BrowserRouter as Router,Routes,Route} from 'react-router-dom'
 import Home from '../Home/Home.js'
 import Post from '../Post/Post.js'
 import Login from '../Login/Login.js'
@@ -10,7 +10,7 @@ import {useSelector} from 'react-redux'
 let FbRouter=()=>{
 let state=useSelector((s)=>s.data)
     return(
-        <BrowserRouter>
+        <Router basename="/FbTask">
        
             {state.isLog? <Routes>
                 <Route path="*" element={<Message/>}/> 
@@ -23,7 +23,7 @@ let state=useSelector((s)=>s.data)
         </Routes>}
         
         
-        </BrowserRouter>
+        </Router>
     )
 }
 export default FbRouter
