@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FbTask/static/css/main.caf92b4c.css",
+    "main.js": "/FbTask/static/js/main.427877d0.js",
+    "static/js/453.f0d4ee3e.chunk.js": "/FbTask/static/js/453.f0d4ee3e.chunk.js",
+    "index.html": "/FbTask/index.html",
+    "main.caf92b4c.css.map": "/FbTask/static/css/main.caf92b4c.css.map",
+    "main.427877d0.js.map": "/FbTask/static/js/main.427877d0.js.map",
+    "453.f0d4ee3e.chunk.js.map": "/FbTask/static/js/453.f0d4ee3e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.caf92b4c.css",
+    "static/js/main.427877d0.js"
+  ]
+}
